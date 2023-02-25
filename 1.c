@@ -6,7 +6,7 @@ int main(){
     c=a+b;
     printf("%d",c);
     int d;
-    d=100;
+    d=10000;
 
     return 0;
 }
